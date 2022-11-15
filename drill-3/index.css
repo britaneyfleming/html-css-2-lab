@@ -1,0 +1,51 @@
+header{
+    width: 100vw;
+    height: 10vh;
+    background-color: grey;
+    position: relative;
+}
+.logo{
+    width: 50px;
+    height: 50px;
+    background-color: blue;
+    position: absolute;
+    top: 15px;
+    left: 15px;
+}
+main{
+    background-color: white;
+    width: 100vw;
+    height: 30vh;
+}
+.content{
+    margin: 20px;
+}
+section{
+    width: 100vw;
+    height: 15vw;
+}
+.blue{
+    background-color: cadetblue;
+}
+.aqua{
+    background-color: aquamarine;
+}
+.citrine{
+    background-color: yellowgreen;
+}
+.yellow{
+    background-color: yellow;
+}
+.black{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    background-color: black;
+    position: fixed;
+    bottom: 5px;
+    right: 5px;
+}
+i.icon{
+    color: white;
+    font-size: large;
+}
